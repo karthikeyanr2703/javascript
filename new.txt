@@ -1,0 +1,4 @@
+Day 42 of  #365daysofcode 💻✍️
+💠Did some coding in javascript about functions and loops.
+💠Also did some css coding.
+#CSS  #Coding
